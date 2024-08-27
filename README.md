@@ -1,6 +1,7 @@
 **Profit Analysis Dashboard**
 
-**Project Description** 
+**Project Description**
+
 This project involves the creation of a Profit Analysis Dashboard using Google Looker Studio and Google Sheets. The dashboard provides a comprehensive analysis of sales and profit data, segmented by channels, regions, product categories, and subcategories. It enables users to filter data by region, analyze quarterly trends, and drill down into product-level details.
 
 **Features**
